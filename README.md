@@ -13,7 +13,7 @@ A Bot Which Watches & Claims Rust Drops For You.
  ```bash 
  pip install -r requirements.txt
 ```
-> Twitch OAuth Key, to obtain this key go to https://www.twitch.tv/ Inspect Element > Network > Click one of the GQL requests https://i.ibb.co/BCD4k4F/Screenshot-6.jpg
+> Twitch OAuth Key, to obtain this key Inspect Element > Network > Click one of the GQL requests https://i.ibb.co/BCD4k4F/Screenshot-6.jpg
 > Geckodriver (Firefox): https://github.com/mozilla/geckodriver/releases<br/>
 > Chromedriver (Chrome): https://sites.google.com/a/chromium.org/chromedriver/downloads/<br/>
 
