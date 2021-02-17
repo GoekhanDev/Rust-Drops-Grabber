@@ -1,4 +1,4 @@
-import requests, os, time, json, ctypes, re, datetime, sys, platform, psutil
+import requests, os, time, json, datetime, sys, platform, psutil
 from colorama import Back, Fore, Style, init
 from bs4 import BeautifulSoup
 from selenium import webdriver
