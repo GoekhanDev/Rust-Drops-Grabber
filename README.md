@@ -8,6 +8,7 @@ A Bot Which Watches & Claims Rust Drops For You.
 
 ![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
 
+<br/>
 
 ### ● Requirements
  ```bash 
@@ -17,6 +18,7 @@ A Bot Which Watches & Claims Rust Drops For You.
 > Geckodriver (Firefox): https://github.com/mozilla/geckodriver/releases<br/>
 > Chromedriver (Chrome): https://sites.google.com/a/chromium.org/chromedriver/downloads/<br/>
 
+<br/>
 
 ### ● Config File
 
