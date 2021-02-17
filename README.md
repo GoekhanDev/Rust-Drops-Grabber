@@ -21,7 +21,7 @@ After that it will watch & claim the drop.
  ```bash 
  pip install -r requirements.txt
 ```
-> Twitch OAuth Key, https://www.twitch.tv/ > Inspect Element > Network > Click one of the GQL requests https://ibb.co/gR1vYvh<br/>
+> Twitch OAuth Key, https://www.twitch.tv/ > Inspect Element > Network > Click one of the GQL requests https://ibb.co/gR1vYvh (U must be logged In)<br/>
 > Geckodriver (Firefox): https://github.com/mozilla/geckodriver/releases<br/>
 > Chromedriver (Chrome): https://sites.google.com/a/chromium.org/chromedriver/downloads/<br/>
 
