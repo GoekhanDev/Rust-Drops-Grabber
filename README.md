@@ -1,6 +1,9 @@
 ## Rust Drop Grabber
 A Bot Which Watches & Claims Rust Drops For You.
 
+- Linux optimization.
+- Firefox & Chrome support.
+
 ### ● Usage
 
 ![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
@@ -10,7 +13,13 @@ A Bot Which Watches & Claims Rust Drops For You.
  ```bash 
  pip install -r requirements.txt
 ```
-Twitch OAuth Key (Not the Twith API v5 Key) which you can obtain here: 
+Twitch OAuth Key which you can obtain here: 
+Geckodriver (Firefox):
+Chromedriver (Chrome): 
+
+> :warning: **If you are using Chrome**: U can't have tabs open with the same profile!
+
+### ● Config File
 
 
 
