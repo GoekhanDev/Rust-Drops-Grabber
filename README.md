@@ -10,6 +10,7 @@ The Bot makes a request to https://twitch.facepunch.com/ and Scrapes Streamer, D
 Then it will check your drop status making a request to the GQL API from Twitch.<br/>
 After that it will watch & claim the drop.
 
+<br/>
 
 ### ● Preview
 
