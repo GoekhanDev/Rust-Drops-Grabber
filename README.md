@@ -4,12 +4,12 @@ A Bot Which Watches & Claims Rust Drops For You.
 - Linux optimization.
 - Firefox & Chrome support.
 
-### ● Usage
+### - Usage
 
 ![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
 
 
-### ● Requirements
+### - Requirements
  ```bash 
  pip install -r requirements.txt
 ```
