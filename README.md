@@ -14,9 +14,9 @@ A Bot Which Watches & Claims Rust Drops For You.
  pip install -r requirements.txt
 ```
 Twitch OAuth Key which you can obtain here: <br/>
-Geckodriver (Firefox): https://github.com/mozilla/geckodriver/releases<br/><br/>
+Geckodriver (Firefox): https://github.com/mozilla/geckodriver/releases<br/>
 Chromedriver (Chrome): https://sites.google.com/a/chromium.org/chromedriver/downloads<br/>
-<br/>
+
 > :warning: **If you are using Chrome**: U can't have tabs open with the same profile!
 
 ### ● Config File
