@@ -4,6 +4,8 @@ A Bot Which Watches & Claims Rust Drops For You.
 - Linux optimization.
 - Firefox & Chrome support.
 
+<br/>
+
 ### ● Preview
 
 ![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
