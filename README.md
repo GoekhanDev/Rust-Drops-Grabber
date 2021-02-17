@@ -4,6 +4,12 @@ A Bot Which Watches & Claims Rust Drops For You.
 - Linux optimization.
 - Firefox & Chrome support.
 
+### ● How it works
+
+The Bot makes a request to https://twitch.facepunch.com/ and Scrapes Streamer, Drop Name & Live Status.<br/>
+Then it will check your drop status making a request to the GQL API from Twitch.<br/>
+After that it will watch & claim the drop.
+
 
 ### ● Preview
 
@@ -30,13 +36,6 @@ A Bot Which Watches & Claims Rust Drops For You.
 | ChromePath    | Chrome Profile: URL chrome://version     |
 | FirefoxPath   | Firefox Profile: URL about:support       |
 
-<br/>
-
-### ● How it works
-
-The Bot makes a request to https://twitch.facepunch.com/ and Scrapes Streamer, Drop Name & Live Status.<br/>
-Then it will check your drop status making a request to the GQL API from Twitch.<br/>
-After that it will watch & claim the drop.
 
 <br/>
 <br/>
