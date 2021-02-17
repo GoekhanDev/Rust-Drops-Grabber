@@ -7,7 +7,7 @@ A Bot Which Watches & Claims Rust Drops For You.
 
 ### ● Preview
 
-![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
+![](https://i.imgur.com/EGQkxgy.jpg)<br/><br/>
 
 
 ### ● Requirements
