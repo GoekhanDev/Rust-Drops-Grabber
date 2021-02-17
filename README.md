@@ -12,10 +12,11 @@ A Bot Which Watches & Claims Rust Drops For You.
 ```
 Twitch OAuth Key (Not the Twith API v5 Key) which you can obtain here: 
 
+
 ### ● How it works
 
 The Bot makes a request to https://twitch.facepunch.com/ and Scrapes Streamer, Drop Name & Live Status.<br/>
-Then it will check your drop status making a request to the GQL API from Twitch<br/>
+Then it will check your drop status making a request to the GQL API from Twitch.<br/>
 After that it will watch & claim the drop.
 
 
