@@ -26,8 +26,8 @@ A Bot Which Watches & Claims Rust Drops For You.
 | OAuth         | Twitch OAuth Key (Not Twitch API v5) |
 | Browser       | Firefox or Chrome.                   |
 | Headless      | Headless Mode [true/false]           |
-| ChromePath    | Chrome Profile: chrome://version     |
-| FirefoxPath   | Firefox Profile: about:support       |
+| ChromePath    | Chrome Profile: URL chrome://version     |
+| FirefoxPath   | Firefox Profile: URL about:support       |
 
 <br/>
 
