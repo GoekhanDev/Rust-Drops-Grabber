@@ -21,7 +21,7 @@ A Bot Which Watches & Claims Rust Drops For You.
 
 ### ● Config File
 
-| Key           | Use                                  |
+| Key           | Description                          |
 | ------------- |:------------------------------------:|
 | OAuth         | Twitch OAuth Key (Not Twitch API v5) |
 | Browser       | Firefox or Chrome.                   |
