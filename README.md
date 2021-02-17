@@ -8,7 +8,6 @@ A Bot Which Watches & Claims Rust Drops For You.
 
 ![](https://i.imgur.com/7QZwKkv.gif)<br/><br/>
 
-<br/>
 
 ### ● Requirements
  ```bash 
