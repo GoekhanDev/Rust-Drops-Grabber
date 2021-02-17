@@ -14,7 +14,7 @@ After that it will watch & claim the drop.
 
 ### ● Preview
 
-![](https://i.gyazo.com/8e5cf453599d15a4d731672228f15822.png)<br/><br/>
+![](https://i.gyazo.com/8f5e8a513c0a1ce86b32018ef050a5f6.png)<br/><br/>
 
 
 ### ● Requirements
