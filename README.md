@@ -1,5 +1,5 @@
-## Twitch Clip Downloader
-A Python script which downloads Twitch Clips
+## Rust Drop Grabber
+A Bot Which Watches & Claims Rust Drops For You.
 
 ### ● Usage
 
@@ -8,15 +8,15 @@ A Python script which downloads Twitch Clips
 
 ### ● Requirements
  ```bash 
- pip install requests
+ pip install -r requirements.txt
 ```
-Twitch API Client ID: https://dev.twitch.tv/console/apps/create<br/><br/>
-
+Twitch OAuth Key (Not the Twith API v5 Key) which you can obtain here: 
 
 ### ● How it works
 
-The Script makes a API call with the given configuration.<br/>
-It will create for every Streamer/Catergory a folder and save the clip.
+The Bot makes a request to https://twitch.facepunch.com/ and Scrapes Streamer, Drop Name & Live Status.<br/>
+Then it will check your drop status making a request to the GQL API from Twitch<br/>
+After that it will watch & claim the drop.
 
 
 <br/>
