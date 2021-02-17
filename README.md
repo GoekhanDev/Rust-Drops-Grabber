@@ -33,7 +33,7 @@ After that it will watch & claim the drop.
 | ------------- |:------------------------------------:|
 | OAuth         | Twitch OAuth Key (Not Twitch API v5) |
 | Browser       | Firefox or Chrome.                   |
-| Headless      | Headless Mode [true/false]           |
+| Headless      | Browser Headless Mode [true/false]           |
 | ChromePath    | Chrome Profile: URL chrome://version     |
 | FirefoxPath   | Firefox Profile: URL about:support       |
 
