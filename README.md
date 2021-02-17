@@ -1,4 +1,4 @@
-## Rust Drop Grabber
+## Rust Drops Grabber
 A Bot Which Watches & Claims Rust Drops For You.
 
 - Linux optimization.
