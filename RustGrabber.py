@@ -84,13 +84,15 @@ class Twitch():
         response = requests.get("https://twitch.facepunch.com/")
         soup = BeautifulSoup(response.text, "lxml")
 
-        Streamer = [Link["href"] for Link in soup.find_all("a", class_="drop", href=True)]
-        Items = [Drop.text for Drop in soup.find_all('h3', class_="title")]
-        Status = [''.join(i for i in Stats.text if i not in [" ", "\n", "\r"]) for Stats in soup.find_all('div', class_="status")]
+        Streamer = [Link["href"] for Link in soup.find_all("a", rel="noreferrer noopener", href=True)]
+        Items = [Drop.text for Drop in soup.find_all('span', class_="drop-name")]
+        Status = [''.join(i for i in Stats.text if i not in [" ", "\n", "\r"]) for Stats in soup.find_all('div', class_="online-status")]
 
         for x, item in enumerate(Streamer):
             try: self.Drops.append([Items[x], Streamer[x], Status[x]])
             except: pass
+
+        self.Drops = self.Drops[:-2]
 
         response = requests.post('https://gql.twitch.tv/gql', headers={'Authorization': f'OAuth {self.Auth}'}, 
             data='[{"operationName":"Inventory","variables":{},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"e0765ebaa8e8eeb4043cc6dfeab3eac7f682ef5f724b81367e6e55c7aef2be4c"}}}]').json()
