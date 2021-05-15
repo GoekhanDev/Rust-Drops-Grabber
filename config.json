@@ -1,9 +1,0 @@
-{
-    "Config": {
-        "OAuth": "",
-        "Browser": "Firefox",
-        "Headless": true,
-        "ChromePath": "",
-        "FirefoxPath": ""
-    }
-}
