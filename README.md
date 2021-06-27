@@ -6,7 +6,7 @@ A Bot Which Watches & Claims Rust Drops For You.
 
 ### ● How it works
 
-The Bot makes scrapes data from https://twitch.facepunch.com/ and will check your drop status making a request to the GQL API from Twitch.<br/>
+The Bot scrapes data from https://twitch.facepunch.com/ and will check your drop status making a request to the GQL API from Twitch.<br/>
 After that it will watch & claim the drop.
 
 <br/>
